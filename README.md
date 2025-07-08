@@ -1,2 +1,2 @@
 # PY-PROJECT-
-Making something on python with. Friends 
+print("Making something on python with. Friends \n Will start soon")
